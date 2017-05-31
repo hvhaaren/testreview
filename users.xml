@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Users>
+		<User UserName="user1" Password="0106CFADB814769F26BD01036DCAE181A32B1D85B5B14037D71AF86B37C1E13A3890" RootPath="c:\fileservicedata\user1" NetworkRootPath="c:\fileservicedata\user1"/>
+		<User UserName="user2" Password="0101FE5859057E5BB98531FF6B1F" RootPath="c:\fileservicedata\user2" NetworkRootPath="\\fileserver\user1"/>
+		<User UserName="user3" Password="01040DE1960A271393B91B3B46D37185D7F48352FC6B0B08A38A" RootPath="c:\fileservicedata\user3" NetworkRootPath="\\fileserver\user1"/>
+</Users>
